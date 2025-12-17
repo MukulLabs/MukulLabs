@@ -37,5 +37,5 @@ I’m a student developer interested in building practical software systems and 
 ---
 
 ## 📫 Contact
-Email: balmukund.contact@gmail.com
-Phone: +91 99420 31641
+- Email: balmukund.contact@gmail.com
+- Phone: +91 99420 31641
