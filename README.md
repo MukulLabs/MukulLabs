@@ -42,5 +42,5 @@ Student developer with practical project experience and a passion for building r
 ---
 
 ## 📫 Contact
-**Email:** balmukund.contact@gmail.com
-**Phone:** +91 99420 31641
+- **Email:** balmukund.contact@gmail.com
+- **Phone:** +91 99420 31641
