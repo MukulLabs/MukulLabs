@@ -1,41 +1,46 @@
-# Hi, I’m Balmukund 👋
-
-I’m a student developer interested in building practical software systems and learning through hands-on projects.
+# Hi, I’m **Balmukund** 👋  
+Student developer with practical project experience and a passion for building real systems.
 
 ---
 
 ## 🛠️ Projects
-- **Pharmacy Billing System**
-  - Complete billing workflow with receipt printing
-  - MySQL database integration
 
-- **Web-Based Thermal Receipt Printing Application**
-  - Browser-based receipt generation
-  - Designed for thermal printers
+### **Pharmacy Billing System**
+- Full billing workflow with receipt printing
+- MySQL database backend
+- Built as a complete desktop application
 
-- **Python Applications**
-  - GUI-based Calculator
-  - String Manipulation Programs
+### **Web-Based Thermal Printer App**
+- Web app that generates thermal receipts
+- Designed for real thermal printers
+- Browser-based interface
 
-- **System-Level Project**
-  - Keystroke Monitoring Tool (educational purpose)
+### **Python GUI Calculator**
+- Functional desktop calculator with GUI
+- Built using Python
+
+### **Python Utilities**
+- String manipulation programs
+
+### **System-Level Tool (Educational)**
+- Keystroke monitoring tool  
+⚠️ *For learning/security research — not for malicious use*
 
 ---
 
-## 🔧 Technologies
-- Python
-- MySQL
-- HTML, CSS, JavaScript
-- C++
+## 🔧 Tech Stack
+- **Languages:** Python, C++, JavaScript  
+- **Web:** HTML, CSS  
+- **Database:** MySQL  
 
 ---
 
-## 🎓 Education
-- PM SHRI Kendriya Vidyalaya Sangathan  
-- Planned higher studies from 2026 in Computer Science / AI & ML
+## 🎓 Education & Path
+- Studying at PM SHRI Kendriya Vidyalaya Sangathan  
+- From April 2026, pursuing higher studies in Computer Science & AI/ML
 
 ---
 
 ## 📫 Contact
-- Email: balmukund.contact@gmail.com
-- Phone: +91 99420 31641
+**Email:** balmukund.contact@gmail.com
+**Phone:** +91 99420 31641
