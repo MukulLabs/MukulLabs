@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I’m Balmukund 👋
 
-<!--
-**MukulLabs/MukulLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student developer interested in building practical software systems and learning through hands-on projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- **Pharmacy Billing System**
+  - Complete billing workflow with receipt printing
+  - MySQL database integration
+
+- **Web-Based Thermal Receipt Printing Application**
+  - Browser-based receipt generation
+  - Designed for thermal printers
+
+- **Python Applications**
+  - GUI-based Calculator
+  - String Manipulation Programs
+
+- **System-Level Project**
+  - Keystroke Monitoring Tool (educational purpose)
+
+---
+
+## 🔧 Technologies
+- Python
+- MySQL
+- HTML, CSS, JavaScript
+- C++
+
+---
+
+## 🎓 Education
+- PM SHRI Kendriya Vidyalaya Sangathan  
+- Planned higher studies from 2026 in Computer Science / AI & ML
+
+---
+
+## 📫 Contact
+Email: balmukund.contact@gmail.com
+Phone: +91 99420 31641
